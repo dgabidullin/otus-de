@@ -1,0 +1,12 @@
+[submodule "kih"]
+	path = kih
+	url = https://github.com/dgabidullin/kih.git
+[submodule "otus-vertica"]
+	path = otus-vertica
+	url = https://github.com/dgabidullin/otus-vertica.git
+[submodule "crimes-in-boston"]
+	path = crimes-in-boston
+	url = https://github.com/dgabidullin/crimes-in-boston.git
+[submodule "OTUS-DE-Scala-Intro"]
+	path = OTUS-DE-Scala-Intro
+	url = https://github.com/dgabidullin/OTUS-DE-Scala-Intro.git
